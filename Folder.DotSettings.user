@@ -1,10 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=64f9949a_002D888a_002D4d3b_002D962c_002D0e589336983d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnalyzeOnField_1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::9678307F-F375-4074-3F42-46BBD33BA5EF::net8.0::FootballMatchReportsTests.AnalyzeOnField_1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9678307F-F375-4074-3F42-46BBD33BA5EF::net8.0::FootballMatchReportsTests.AnalyzeOnField_10&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9678307F-F375-4074-3F42-46BBD33BA5EF::net8.0::FootballMatchReportsTests.AnalyzeOnField_11&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9678307F-F375-4074-3F42-46BBD33BA5EF::net8.0::FootballMatchReportsTests.AnalyzeOnField_8&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::9678307F-F375-4074-3F42-46BBD33BA5EF::net8.0::FootballMatchReportsTests.AnalyzeOnField_throws_unknown_shirt_number&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7016e26f_002D2818_002D43af_002D99ec_002D1bdb34c5ef2f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnalyzeOffField_number" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
